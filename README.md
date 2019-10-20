@@ -1,4 +1,4 @@
-# SteGz CTF
+# SteGz CTF #1
 Level : 2 [Medium]
 
 Encryption algorithm :
